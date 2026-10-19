@@ -413,7 +413,7 @@ $$
 
 #### 常见激活函数
 
-
+<img src="activation_functions_poster.png" alt="activation_functions_poster" style="zoom:25%;" />
 
 | 名称 | 公式 | 输出范围 | 导数 | 常见用途 |
 |:---|:---|:---:|:---|:---|
